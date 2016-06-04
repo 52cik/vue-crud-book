@@ -17,4 +17,4 @@ npm run build
 
 [预览地址][dist]
 
-[dist]: http://52cik.com/vue-crud-book/dist/
+[dist]: https://52cik.github.io/vue-crud-book/dist/
