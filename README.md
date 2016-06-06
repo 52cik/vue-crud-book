@@ -1,6 +1,8 @@
-# vue-crud-book 例子
+# vue-crud-book
 
-> 组件化开发例子 (vue-loader)
+> vue 组件化开发练习 (vue-loader)
+
+[预览地址][dist] (可 Vue Devtools 调试)
 
 ## 开始
 
@@ -14,7 +16,5 @@ npm run dev
 # 编译
 npm run build
 ```
-
-[预览地址][dist]
 
 [dist]: https://52cik.github.io/vue-crud-book/dist/
